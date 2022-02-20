@@ -42,3 +42,10 @@ Página para criar um novo bot no discord: https://discord.com/developers/applic
 <prefixo>iplocator <ip>
 <prefixo>locator <ip>
 ```
+
+# Resultado
+
+* Prefixo definido: >
+* Comando usado: locator
+
+<img src = "https://media.discordapp.net/attachments/944950870334922832/944950887296663652/unknown.png">
