@@ -45,7 +45,7 @@ Página para criar um novo bot no discord: https://discord.com/developers/applic
 
 # Resultado
 
-* Prefixo definido: >
+* Prefixo definido: !
 * Comando usado: locator
 
-<img src = "https://media.discordapp.net/attachments/944950870334922832/944950887296663652/unknown.png">
+<img src = "https://media.discordapp.net/attachments/944950870334922832/944952821562884166/unknown.png">
