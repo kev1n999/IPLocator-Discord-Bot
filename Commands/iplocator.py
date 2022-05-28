@@ -25,17 +25,17 @@ class IPLocatorCommand(commands.Cog):
 
         info = {
             "all": f"""Endereço ip: {get["query"]}
-            País: {get["country"]}
-            Código do país: {get["countryCode"]}
-            Região: {get["region"]}
-            Nome da região: {get["regionName"]}
-            Cidade: {get["city"]}
-            Fuso horário: {get["timezone"]}
-            Latitude: {get["lat"]}
-            Longitude: {get["lon"]}
-            Zip: {Zip}
-            Fornecedor: {get["isp"]}
-            Org: {get["org"]}"""
+País: {get["country"]}
+Código do país: {get["countryCode"]}
+Região: {get["region"]}
+Nome da região: {get["regionName"]}
+Cidade: {get["city"]}
+Fuso horário: {get["timezone"]}
+Latitude: {get["lat"]}
+Longitude: {get["lon"]}
+Zip: {Zip}
+Fornecedor: {get["isp"]}
+Org: {get["org"]}"""
         }
 
         IPLocatorEmbed = discord.Embed(description = info["all"], color = discord.Color.red())
